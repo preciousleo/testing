@@ -1,0 +1,20 @@
+						
+						
+Primary Genre	Price Type	App Name	Total Apps	Total Ratings 	Avg Rating 	
+Social Networking			100.00%	100.00%	3.60	
+	Free		50.00%	99.88%	3.70	
+		Facebook	10.00%	58.30%	3.50	
+		Pinterest	10.00%	20.81%	4.50	
+		Skype for iPhone	10.00%	7.32%	3.50	
+		Messenger	10.00%	6.89%	3.00	
+		Tumblr	10.00%	6.55%	4.00	
+	Paid		50.00%	0.12%	3.50	
+		Badoo Premium - Meet new people. Extra features.	10.00%	0.04%	4.50	
+		Tweetbot 4 for Twitter	10.00%	0.04%	4.00	
+		Repost It! for Instagram Pro - Video Photo Whiz	10.00%	0.01%	4.00	
+		TeamSpeak 3	10.00%	0.01%	2.50	
+		Followers + EA - Analytics for Instagram	10.00%	0.01%	2.50	
+						
+						
+						
+						

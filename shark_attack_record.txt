@@ -1,0 +1,50 @@
+Case Number	Date	Type	Country	Area	Location	Activity	Name	Gender	Age	Injury	Fatal (Y/N)	Species 	Investigator or Source
+1900.01.28	1/27/1900	Unprovoked	Australia	New South Wales	Lane Cove River, Sydney Harbor (Estuary)	Standing, gathering oysters	Charles Duck	M	Unknown	Right posterior thigh bitten	N		Poverty Bay Herald, 2/12/1900
+1900.07.00	7/1/1900	Provoked	USA	Connecticut	Bridgeport, Fairfield County	 	skiff with Dr. William T. Healey, Dr. Henry Callahan on board	M	Unknown	No injury to occupants. They shot shark, then it capsized their skiff. PROVOKED INCIDENT	N		Times, 8/1/1900
+1900.07.14	7/14/1900	Invalid	USA	Hawaii	Makapu'u Point, O'ahu	Hunting seashells	Emil Uhlbrecht & unidentified person	M	Unknown	Believed drowned. Uhlbrecht’s foot, and the pelvis & femur of another person recovered in gut of tiger shark shark caught on 17-Aug-1900	Y		Los Angeles Times, 7/28/1900
+1900.07.31	7/31/1900	Unprovoked	Croatia	Primorje-Gorski Kotar County	Volosko, Opatija	Swimming	male	M	Unknown	FATAL	Y		C. Moore, GSAF
+1900.08.21	8/21/1900	Unprovoked	USA	North Carolina	Southport, Brunswick County	Bathing	Burris	M	Unknown	Left hand lacerated	N		C. Creswell, GSAF
+1900.09.05	9/5/1900	Unprovoked	USA	Hawaii	Waikiki Beach, Oahu	Floating	Joe Hartman	M	Unknown	Bathing suit torn & "imprints of the shark's teeth on his body"	N		Honolulu Republican, 9/6/1900
+1900.09.13	9/13/1900	Unprovoked	USA	Rhode Island	Coddington Cove	Diving	George Brown	M	Unknown	No injury	N	 	NY Times, 9/14/1900
+1900.09.15	9/15/1900	Unprovoked	Australia	Queensland	Townsville	Swimming	John Hennessy	M	Unknown	Laceration to right leg	N		Sydney Morning Herald, 9/17/1900
+1900.10.27	10/27/1900	Invalid	South Africa	Western Cape Province	Woodstock Beach, Cape Town	Swimming	Amos Layzell	M	Unknown	Probable drowning & scavenging	Y		P. Logan; M. Levine, GSAF
+1900.11.14	11/14/1900	Unprovoked	South Africa	Western Cape Province	Three Anchor Bay	Swimming	William Strathorn	M	30	FATAL, legs severed	Y		P. Logan; M. Levine, GSAF
+1900.12.27	12/27/1900	Unprovoked	Australia	New South Wales	Middle Harbour, Sydney 	Bathing	Thomas Houstan	M	Unknown	FATAL	Y		Taranaki Herald, 12/28/1900
+1901.01.30	1/30/1901	Unprovoked	Australia	Queensland	Brisbane	Bathing	John Thompson	M	Unknown	Thigh bitten, FATAL	Y		Otago Witness, 2/6/1901
+1901.06.24	6/24/1901	Unprovoked	Philippines	Western Viscayas	Island of Panay, Iliolo	Swimming	S. McKie, apprentice 1st class on the U.S. Naval ship Annapolis	M	Unknown	Left thigh stripped of flesh 4" above the knee 	N		J.A. Guthrie;  Sun, 7/13/1913; V.M. Coppleson, p.264 also states "Native taken near same spot 3 months previously."
+1901.06.29.R	6/29/1901	Invalid	Yemen	Aden		Diving around anchored liner	boy	M	Unknown		N		The Graphic, 6/29/1901
+1901.07.17	7/17/1901	Invalid	Italy	Syracuse	Capo Santa Croce	Swimming	Antonio Tornatori	M	20	Disappeared, but shark involvement unconfirmed	Y		C. Moore
+1901.07.30	7/30/1901	Unprovoked	South Africa	Western Cape Province	Windmill Beach	Swimming	John Hendrick Adrian Chandler, a prisoner of war	M	29	Right leg bitten & foot severed, right arm bitten, bones fractured & nearly severed FATAL	Y	White shark	M. Levine, GSAF
+1901.09.23.R	9/23/1901	Unprovoked	Cyprus	Southern Cyprus	Larnaca	Swimming	male	M	Unknown	FATAL, bitten on arms, chest & legs	Y	2 m shark	Bardanis citing Embros, 9/23/1901
+1901.10.00	10/1/1901	Unprovoked	Philippines	Zamboanga del Sur Province	 Port Isabela de Basilan	Taking catch from a fish weir in which the shark was snared	Dahkus, a Molussa Moro	M	Unknown	Right thigh bitten 	N		J.A. Guthrie, M.D.; Newark Advocate, 5/24/1902;  V.M. Coppleson (1958), p.264
+1901.12.01	12/1/1901	Unprovoked	Australia	Queensland	Brisbane	Bathing	William Quince	M	10	Lacerations to torso & thigh	N		The Argus, 12/2/1901
+1902.01.19	1/19/1902	Unprovoked	Australia	Queensland	Brisbane	Swimming	Charles Jones	M	16	Legs bitten	N		Brisbane Courier, 1/20/1902
+1902.01.19.R	1/19/1902	Invalid	South Africa	KwaZulu-Natal	Durban	0	a soldier from the Natal Garrison	M	Unknown	Possible drowning & scavenging. Remains were recovered from a 15' shark's gut	Y		M. Levine, GSAF
+1902.01.25.R	1/25/1902	Unprovoked	Australia	New South Wales	Kerosene Bay	Dangling feet in the water	John Ogier	M	Unknown	FATAL	Y		The Advertiser, 1/25/1902
+1902.02.22.R	2/22/1902	Provoked	New Zealand	North Island	Poverty Bay	Standing on ship deck	male	M	Unknown	No injury, hooked shark bit tousers. PROVOKED INCIDENT	N		The Colonist 2/22/1902
+1902.04.00	4/1/1902	Invalid	South Africa	Eastern Cape Province	Algoa Bay	Swimming	Neil Sorenson	M	Unknown	Probable drowning & scavenging	Y		M. Levine, GSAF
+1902.06.00	6/1/1902	Unprovoked	Egypt	Mediterranean Sea	Tzortzou Reef, Marsa Matruh	Sponge diving	Giorgos	M	Unknown	Bitten on hand and thigh	N		M. Bardanis
+1902.06.02	6/2/1902	Unprovoked	Philippines	Zamboanga del Sur Province	Near mouth of River Cumalarang, 5 miles from Port Isabela, Basilan Island	0	Apy	M	Unknown	"Nose hanging by a threat, prints of shark's teeth over entire right cheek"	N		V.M. Coppleson, p.264
+1902.07.06	7/6/1902	Provoked	USA	New Jersey	Atlantic City, Atlantic County	Swimming	Harry M. Speerman	M	Unknown	Shark bit his left arm after he grabbed its tail PROVOKED INCIDENT	N		New York Times, 7/7/1902
+1902.07.15	7/15/1902	Provoked	Italy	Liguria	Galliera dock, Genoa	Fishing	male	M	Unknown	Face & arms injured by hooked shark PROVOKED INCIDENT 	N		C. Moore, GSAF
+1902.08.08	8/8/1902	Unprovoked	USA	Hawaii	Kalihi, O'ahu	Catching crabs	Hawaiian boy	M	Unknown	FATAL, both arms severed  	Y		G. H. Balazs & A. H. Kam; V.M. Coppleson (1958), p.250; J. Borg, p.69; L. Taylor (1993), pp. 94-95
+1902.08.24.R	8/24/1902	Boating	Croatia	Istria County	Porec	Fishing	Row boat; occupants - 2 young men	M	Unknown	No injury to occupants, shark grabbed anchor rope & towed boat	N		C. Moore, GSAF
+1902.08.28.R	8/29/1902	Unprovoked	Italy	Calabria	Nicotera	Swimming	male	M	Unknown	FATAL	Y		C. Moore, GSAF
+1902.11.01.R	11/1/1902	Unprovoked	USA	Texas	Near Port Lavaca, Calhoun County	Fishing	male	M	Unknown	Severe laceration to hand	N		Victoria Weekly, 1/11/ 1902
+1902.11.10	11/10/1902	Unprovoked	Australia	New South Wales	Middle Harbour, Sydney 	Swimming	Howard Dent	M	17	FATAL	Y		The Advertiser, 11/11/1902
+1902.12.22.R	12/22/1902	Unprovoked	Nicaragua	Rio San Juan	Greytown	Swimming	Frederick Wiseman	M	30	FATAL	Y		Racine Daily Journal, 12/22/1902
+1903.01.10	1/10/1903	Unprovoked	Australia	New South Wales	Lane Cove River, Sydney Harbor (Estuary)	0	Sydney James	M	Unknown	FATAL	Y	Bull shark	Northern Territory Times & Gazette, 1/12/1903
+1903.03.12	3/12/1903	Unprovoked	Australia	Queensland	Logan River	Swimming	William Bartlett	M	Unknown	FATAL	Y		Sydney Morning Herald, 3/16/1903
+1903.03.20.R	3/20/1903	Unprovoked	Australia	New South Wales	Sydney	Suicide	R. Raymond	M	Unknown	Jumped off cliff	Y		Northern Territory Times, 3/20/1903
+1903.05.04	5/4/1903	Unprovoked	Mexico	Veracruz	Coatzacoalcos	Bathing	3 men	M	Unknown	FATAL x 3	Y		Chicago Tribune, 5/5/1903
+1903.06.21	6/21/1903	Unprovoked	Australia	New South Wales	Georges River	Swimming	William Price	M	Unknown	FATAL	Y		The Advertiser, 6/22/1903
+1903.07.00	7/1/1903	Unprovoked	Falkland Islands	Unknown		Swimming, after falling overboard	Juan de la Cruz Silva Martinez	M	28	Right leg bitten, surgically amputated	N		Atlanta Constitution, 1/10/1904
+1903.09.16.R	9/16/1903	Unprovoked	USA	New Jersey	Atlantic City, Atlantic County	Fishing	Rev. John McMillan	M	Unknown	Lacerations to right arm & shoulder	N	9' shark	Indiana Messenger, 9/16/1903
+1903.10.04	10/4/1903	Unprovoked	Cuba	Havana Province	Havana Harbor	Fell overboard	a sailor	M	Unknown	FATAL	Y		NY Times, 10/18/1903
+1904.01.23	1/23/1904	Unprovoked	New Caledonia	South Province	Noumea	Bathing	Charley Smith	M	Unknown	FATAL	Y		The Advertiser, 2/4/1904
+1904.02.04	2/4/1904	Unprovoked	New Zealand	North Island	Waitara	Swimming	Ngawai Rakau	M	30	FATAL	Y		Star, 2/4/1904
+1904.02.07	2/7/1904	Unprovoked	Australia	Queensland	Brisbane	Swimming after his hat	George Grant	M	Unknown	FATAL	Y		Grey River Argus, 2/26/1904
+1555.00.00	4/3/1904	Unprovoked	Unknown	Unknown		Swimming	male	M	Unknown		N		Olaus Magnus
+1595.00.00	5/13/1904	Unprovoked	India	Kerala	River Cochin	Ship lay at anchor & man was working on its rudder	male	M	Unknown	Leg severed mid-thigh, hand severed, arm above elbow and part of buttocks. Not known if he survived	N		The Voyage of John Huyghen van Linschoten
+1642.00.00	6/29/1904	Unprovoked	USA	New York	Between Manhattan and The Bronx	Swimming 	Antony Van Corlear	M	Unknown	FATAL	Y		Knickerbocker's History of New York, by Washington Irving
+1904.07.01.R	7/1/1904	Unprovoked	Italy	Ancona Province	Ancona	Swimming		M	Unknown	FATAL x 4. Afterwards metal mesh nets were installed	Y		C. Moore, GSAF, Translations by S. Navajas
